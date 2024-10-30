@@ -14,3 +14,6 @@ items.forEach((item) => {
 
 console.log("Original items:", items);
 console.log("Filtered and transformed items:", results);
+
+
+// Debugger auch über node --inspect index.js aufzurufen!
